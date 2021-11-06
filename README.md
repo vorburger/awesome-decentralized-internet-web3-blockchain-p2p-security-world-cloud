@@ -6,6 +6,10 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 * https://ecosis.io
 
+## Browser
+
+* https://brave.com with https://basicattentiontoken.org
+
 ## Identity
 
 * WebAuthn
