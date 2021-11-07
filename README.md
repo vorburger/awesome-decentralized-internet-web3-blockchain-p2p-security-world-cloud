@@ -10,6 +10,29 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 * https://brave.com with https://basicattentiontoken.org
 
+## Platforms
+
+* https://urbit.org
+* https://internetcomputer.org by https://dfinity.org
+* https://akash.network
+* https://www.runonflux.io
+
+## Node Distros
+
+* https://dappnode.io
+
+## Node Hardware (only)
+
+* https://ava.do
+* https://coinmine.com, see https://futurism.com/crypto-mining-machine-beautiful-utterly-pointless ;-)
+
+## Node as a Service (NaaS) hosted on managed Cloud 1.0
+
+* https://infura.io
+* https://www.quicknode.com
+* https://www.alchemy.com
+* https://blockdaemon.com
+
 ## Identity
 
 * WebAuthn
@@ -36,3 +59,4 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://awesomeopensource.com/projects/decentralized
 * https://github.com/SHAKOTN/awesome-web3
 * https://github.com/JoinColony/awesome-web3
+* https://docs.ethhub.io/ethereum-basics/resources/
