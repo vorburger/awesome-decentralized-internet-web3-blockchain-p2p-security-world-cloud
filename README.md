@@ -10,6 +10,11 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 * https://brave.com with https://basicattentiontoken.org
 
+## CDN
+
+* https://ipfs.io
+* https://arc.io
+
 ## Platforms
 
 * https://urbit.org
