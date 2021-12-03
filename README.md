@@ -19,6 +19,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 ## Data
 
 * https://gun.eco
+* https://orbitdb.org
 
 ## Platforms
 
