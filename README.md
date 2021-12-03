@@ -14,6 +14,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 * https://ipfs.io
 * https://arc.io
+* https://zeronet.io
 
 ## Platforms
 
@@ -51,6 +52,12 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 * https://www.qubes-os.org
 * https://subgraph.com
+
+## Multi Cloud ☁️ Hosting
+
+* Hetzner, OVHcloud
+* Digital Ocean, https://www.vultr.com
+* GCP, AWS, ..
 
 ## Related awesome lists
 
