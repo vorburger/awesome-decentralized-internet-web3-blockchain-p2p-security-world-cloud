@@ -16,6 +16,10 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://arc.io
 * https://zeronet.io
 
+## Data
+
+* https://gun.eco
+
 ## Platforms
 
 * https://urbit.org
@@ -53,7 +57,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://www.qubes-os.org
 * https://subgraph.com
 
-## Multi Cloud ☁️ Hosting
+## Multi Cloud ☁️ Hosting Market
 
 * Hetzner, OVHcloud
 * Digital Ocean, https://www.vultr.com
