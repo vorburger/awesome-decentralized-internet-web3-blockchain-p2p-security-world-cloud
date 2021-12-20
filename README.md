@@ -10,6 +10,22 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 * https://brave.com with https://basicattentiontoken.org
 
+## Instant Messaging
+
+* https://berty.tech #decentralized
+
+## Social Media
+
+* https://www.manyver.se #decentralized
+* https://matrix.org #federated
+* https://movim.eu #federated
+* https://joinmastodon.org #federated
+* https://diasporafoundation.org #federated
+
+## Video
+
+* https://joinpeertube.org #decentralized
+
 ## CDN
 
 * https://ipfs.io
@@ -37,7 +53,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://ava.do
 * https://coinmine.com, see https://futurism.com/crypto-mining-machine-beautiful-utterly-pointless ;-)
 
-## Node as a Service (NaaS) hosted on managed Cloud 1.0
+## Blockchain Node as a Service (NaaS) hosted on managed Cloud 1.0
 
 * https://infura.io
 * https://www.quicknode.com
