@@ -43,6 +43,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://internetcomputer.org by https://dfinity.org
 * https://akash.network
 * https://www.runonflux.io
+* https://aleph.im
 
 ## Node Distros
 
