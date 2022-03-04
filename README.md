@@ -65,6 +65,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 * WebAuthn
 * DID
+* https://mosip.io
 
 ## Security focused Linux distributions
 
