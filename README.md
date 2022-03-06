@@ -4,6 +4,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## ToDo - haven't had a closer look at what exactly these are...
 
+* https://near.org
 * https://ecosis.io
 
 ## Browser
