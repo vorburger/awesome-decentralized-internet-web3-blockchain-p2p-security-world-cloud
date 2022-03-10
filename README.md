@@ -64,6 +64,10 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## Identity
 
+* https://www.proofofhumanity.id
+* https://www.brightid.org
+* https://www.idena.io
+* https://poap.xyz
 * WebAuthn
 * DID
 * https://mosip.io
