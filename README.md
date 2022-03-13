@@ -27,6 +27,10 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 * https://joinpeertube.org #decentralized
 
+## Drive File Storage
+
+* https://drive.fission.codes
+
 ## CDN
 
 * https://ipfs.io
@@ -37,9 +41,12 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 * https://gun.eco
 * https://orbitdb.org
+* https://ceramic.network
+* https://tableland.xyz
 
-## Platforms
+## Platforms & Frameworks
 
+* https://fission.codes
 * https://urbit.org
 * https://internetcomputer.org by https://dfinity.org
 * https://akash.network
@@ -64,6 +71,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## Identity
 
+* https://ucan.xyz
 * https://www.proofofhumanity.id
 * https://www.brightid.org
 * https://www.idena.io
@@ -89,6 +97,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## Related awesome lists
 
+* https://project-awesome.org/ipfs/awesome-ipfs
 * https://github.com/sindresorhus/awesome#decentralized-systems
 * https://github.com/difler1/awesome-decentralized
 * https://github.com/ECJ222/awesome-web3
