@@ -55,7 +55,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## Node Distros
 
-* https://dappnode.io
+* https://dappnode.io (my [Notes about DAppNode](https://github.com/vorburger/vorburger.ch-Notes/tree/develop/linux/dappnode))
 
 ## Node Hardware (only)
 
