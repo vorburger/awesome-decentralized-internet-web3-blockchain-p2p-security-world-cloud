@@ -4,6 +4,9 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## ToDo - haven't had a closer look at what exactly these are...
 
+* https://solidproject.org
+* https://safenetwork.tech (with https://safenetwork.org)
+* https://www.stacks.co
 * https://near.org
 * https://ecosis.io
 
