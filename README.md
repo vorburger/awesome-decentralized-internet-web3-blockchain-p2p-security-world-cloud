@@ -18,8 +18,9 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 * https://berty.tech #decentralized
 
-## Social Media
+## Social Networks / Media
 
+* https://lens.xyz Social Network infra
 * https://www.manyver.se #decentralized
 * https://matrix.org #federated
 * https://movim.eu #federated
