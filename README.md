@@ -37,7 +37,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## CDN
 
-* https://ipfs.io
+* https://ipfs.io ([for container images](https://github.com/containerd/nerdctl/blob/master/docs/ipfs.md)!)
 * https://arc.io
 * https://zeronet.io
 
