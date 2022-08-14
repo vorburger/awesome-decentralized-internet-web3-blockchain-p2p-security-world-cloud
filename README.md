@@ -76,6 +76,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## Identity
 
+" https://magic.link
 * https://ucan.xyz
 * https://www.proofofhumanity.id
 * https://www.brightid.org
