@@ -76,6 +76,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## Identity
 
+* https://github.com/nichoth/fission-did
 " https://magic.link
 * https://ucan.xyz
 * https://www.proofofhumanity.id
