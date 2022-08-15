@@ -35,6 +35,8 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 ## Drive File Storage
 
 * https://drive.fission.codes
+* https://github.com/wnfs-wg
+* https://github.com/ucan-wg
 
 ## CDN
 
