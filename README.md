@@ -44,6 +44,10 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://arc.io
 * https://zeronet.io
 
+## Networking
+
+* https://tailscale.com ?
+
 ## Data
 
 * https://gun.eco
