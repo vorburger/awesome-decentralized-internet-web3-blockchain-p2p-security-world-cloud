@@ -108,6 +108,10 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * Digital Ocean, https://www.vultr.com
 * GCP, AWS, ..
 
+## Related articles & blog posts
+
+* https://blog.dave.tf/post/new-kubernetes/
+
 ## Related awesome lists
 
 * https://project-awesome.org/ipfs/awesome-ipfs
