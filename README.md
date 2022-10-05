@@ -93,6 +93,14 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * DID
 * https://mosip.io
 
+## Web3 IoT
+
+* https://iotex.io
+
+## Web3 OS
+
+* https://capyloon.org
+
 ## Security focused Linux distributions
 
 ### Server
