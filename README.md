@@ -134,3 +134,4 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://github.com/SHAKOTN/awesome-web3
 * https://github.com/JoinColony/awesome-web3
 * https://docs.ethhub.io/ethereum-basics/resources/
+* https://github.com/sovereign/sovereign
