@@ -28,12 +28,27 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://joinmastodon.org #federated
 * https://diasporafoundation.org #federated
 
+## Photos
+
+* https://www.numbersprotocol.io
+
 ## Video
 
 * https://joinpeertube.org #decentralized
 
+## Meet
+
+* https://huddle01.com
+
+## Music
+
+* https://audius.co
+* https://a.currents.fm
+* https://inflowsocial.io
+
 ## Drive File Storage
 
+* https://slate.host
 * https://drive.fission.codes
 * https://github.com/wnfs-wg
 * https://github.com/ucan-wg
@@ -41,8 +56,27 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 ## CDN
 
 * https://ipfs.io ([for container images](https://github.com/containerd/nerdctl/blob/master/docs/ipfs.md)!)
+  - https://fleek.co/ipfs-gateway/
 * https://arc.io
 * https://zeronet.io
+* https://www.myel.network
+
+## Storage
+
+* https://filecoin.io (FIL), with "onramps":
+  - https://web3.storage
+  - https://nft.storage
+  - https://slate.host
+  - https://fleek.co/storage/
+  - https://files.chainsafe.io
+  - https://www.numbersprotocol.io
+  - https://huddle01.com
+  - https://audius.co
+  - https://a.currents.fm
+  - https://inflowsocial.io
+* https://www.arweave.org (AR)
+* https://www.storj.io (STORJ)
+* https://sia.tech (SC)
 
 ## Networking
 
