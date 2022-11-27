@@ -58,11 +58,12 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://ipfs.io ([for container images](https://github.com/containerd/nerdctl/blob/master/docs/ipfs.md)!)
   - https://fleek.co/ipfs-gateway/
 * https://arc.io
-* https://zeronet.io
+* https://zeronet.io (https://github.com/HelloZeroNet/ZeroNet & https://github.com/zeronet-conservancy?)
 * https://www.myel.network
 
 ## Storage
 
+* https://filebase.com
 * https://filecoin.io (FIL), with "onramps":
   - https://web3.storage
   - https://nft.storage
@@ -78,9 +79,19 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://www.storj.io (STORJ)
 * https://sia.tech (SC)
 
-## Networking
+## VPN for End Users
 
-* https://tailscale.com ?
+* https://www.orchid.com
+* https://www.mysterium.network
+* https://sentinel.co (NB [Android App](https://sentinel.co/downloads/) no longer available?)
+
+## Lower Level Networking
+
+* https://tailscale.com
+* [WireGuard](https://www.wireguard.com) related
+  * https://github.com/cedrickchee/awesome-wireguard#mesh-network
+  * https://github.com/gawen/wirehub (archived)
+* [RFC 7343: An IPv6 Prefix for Overlay Routable Cryptographic Hash Identifiers Version 2 (ORCHIDv2)](https://datatracker.ietf.org/doc/rfc7343/)
 
 ## Data
 
