@@ -17,6 +17,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## Instant Messaging
 
+* https://status.im
 * https://berty.tech #decentralized
 
 ## Social Networks / Media
