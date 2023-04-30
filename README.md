@@ -64,6 +64,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## Storage
 
+* https://www.ethswarm.org
 * https://filebase.com
 * https://filecoin.io (FIL), with "onramps":
   - https://web3.storage
