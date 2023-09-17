@@ -8,19 +8,20 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://solidproject.org
 * https://safenetwork.tech (with https://safenetwork.org)
 * https://www.stacks.co
-* https://near.org
 * https://ecosis.io
 
-## Browser
+## For Users
+
+### Browser
 
 * https://brave.com with https://basicattentiontoken.org
 
-## Instant Messaging
+### Instant Messaging
 
 * https://status.im
 * https://berty.tech #decentralized
 
-## Social Networks / Media
+### Social Networks / Media
 
 * https://lens.xyz Social Network infra
 * https://www.manyver.se #decentralized
@@ -29,32 +30,60 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://joinmastodon.org #federated
 * https://diasporafoundation.org #federated
 
-## Photos
+### Photos
 
 * https://www.numbersprotocol.io
 
-## Video
+### Videos
 
 * https://joinpeertube.org #decentralized
 
-## Meet
+### Video Conference
 
 * https://huddle01.com
 
-## Music
+### Music
 
 * https://audius.co
 * https://a.currents.fm
 * https://inflowsocial.io
 
-## Drive File Storage
+### File Storage
 
+* https://files.chainsafe.io
 * https://slate.host
 * https://drive.fission.codes
 * https://github.com/wnfs-wg
 * https://github.com/ucan-wg
 
-## CDN
+## For Developers
+
+### Companies
+
+* https://consensys.io
+* https://protocol.ai
+* https://www.parity.io, by https://www.gavwood.com
+
+### Blockchains
+
+* https://ethereum.org
+* https://near.org
+* https://www.polkadot.network
+* https://cardano.org
+* https://www.avax.network Avalanche
+
+### Ethereum Virtual Machines (EVM)
+
+* Ethereum's own Geth, Nethermind, Besu, Erigon
+* https://aurora.dev/about (NEAR)
+* https://substrate.io (for Polkadot, by Parity)
+
+### Oracles
+
+* https://thegraph.com
+* https://api3.org
+
+### CDN
 
 * https://ipfs.io ([for container images](https://github.com/containerd/nerdctl/blob/master/docs/ipfs.md)!)
   - https://fleek.co/ipfs-gateway/
@@ -62,7 +91,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://zeronet.io (https://github.com/HelloZeroNet/ZeroNet & https://github.com/zeronet-conservancy?)
 * https://www.myel.network
 
-## Storage
+### Storage
 
 * https://www.ethswarm.org
 * https://filebase.com
@@ -81,13 +110,14 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://www.storj.io (STORJ)
 * https://sia.tech (SC)
 
-## VPN for End Users
+### VPN for End Users
 
+* https://rethinkdns.com
 * https://www.orchid.com
 * https://www.mysterium.network
 * https://sentinel.co (NB [Android App](https://sentinel.co/downloads/) no longer available?)
 
-## Lower Level Networking
+### Lower Level Networking
 
 * https://tailscale.com
 * [WireGuard](https://www.wireguard.com) related
@@ -95,14 +125,18 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
   * https://github.com/gawen/wirehub (archived)
 * [RFC 7343: An IPv6 Prefix for Overlay Routable Cryptographic Hash Identifiers Version 2 (ORCHIDv2)](https://datatracker.ietf.org/doc/rfc7343/)
 
-## Data
+### Data
 
 * https://gun.eco
 * https://orbitdb.org
 * https://ceramic.network
 * https://tableland.xyz
 
-## Platforms & Frameworks
+### Metaverse
+
+* https://docs.lamina1.network
+
+### Platforms & Frameworks
 
 * https://fission.codes
 * https://urbit.org
@@ -111,24 +145,30 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://www.runonflux.io
 * https://aleph.im
 
-## Node Distros
+### Node Distros
 
 * https://dappnode.io (my [Notes about DAppNode](https://github.com/vorburger/vorburger.ch-Notes/tree/develop/linux/dappnode))
 
-## Node Hardware (only)
+### Node Hardware (only)
 
 * https://ava.do
 * https://coinmine.com, see https://futurism.com/crypto-mining-machine-beautiful-utterly-pointless ;-)
 
-## Blockchain Node as a Service (NaaS) hosted on managed Cloud 1.0
+### Blockchain Node as a Service (NaaS) hosted on managed Cloud 1.0
 
 * https://infura.io
 * https://www.quicknode.com
 * https://www.alchemy.com
 * https://blockdaemon.com
 
-## Identity
+### Wallets
 
+* https://safe.global (Gnosis Safe)
+* https://app.tor.us
+
+### Identity
+
+* https://web3auth.io
 * https://github.com/nichoth/fission-did
 " https://magic.link
 * https://ucan.xyz
@@ -137,14 +177,14 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://www.idena.io
 * https://poap.xyz
 * WebAuthn
-* DID
+* DID:
 * https://mosip.io
 
-## Web3 IoT
+### Web3 IoT
 
 * https://iotex.io
 
-## Web3 OS
+### Web3 OS
 
 * https://capyloon.org
 
