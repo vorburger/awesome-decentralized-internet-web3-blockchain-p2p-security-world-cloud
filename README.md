@@ -67,6 +67,8 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 ### Blockchains
 
 * https://ethereum.org
+* https://polygon.technology
+* https://solana.com
 * https://near.org
 * https://www.polkadot.network
 * https://cardano.org
