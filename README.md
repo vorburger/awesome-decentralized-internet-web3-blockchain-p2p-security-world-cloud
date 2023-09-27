@@ -21,6 +21,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://jami.net
 * https://status.im
 * https://berty.tech #decentralized
+* https://scuttlebutt.nz
 
 ### Social Networks / Media
 
