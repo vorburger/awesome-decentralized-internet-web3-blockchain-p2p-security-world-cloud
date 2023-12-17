@@ -16,6 +16,14 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 * https://brave.com with https://basicattentiontoken.org
 
+### Clouds
+
+* https://disroot.org
+
+### Documents
+
+* https://cryptpad.org/instances/
+
 ### Instant Messaging
 
 * https://jami.net
@@ -61,6 +69,15 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://github.com/ucan-wg
 
 ## For Developers
+
+### Forges 🗡️
+
+* https://codeberg.org with https://forgejo.org (a 🍴 of https://gitea.com which was a fork of https://gogs.io)
+* https://git.disroot.org
+
+### CI/CD
+
+* https://woodpecker-ci.org (a 🍴 of https://www.drone.io)
 
 ### Companies
 
@@ -172,11 +189,13 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 * https://safe.global (Gnosis Safe)
 * https://app.tor.us
 
-### Identity
+### Identity 🆔
 
+* https://keyoxide.org (with https://js.doip.rocks)
+* https://ariadne.id
 * https://web3auth.io
 * https://github.com/nichoth/fission-did
-" https://magic.link
+* https://magic.link
 * https://ucan.xyz
 * https://www.proofofhumanity.id
 * https://www.brightid.org
