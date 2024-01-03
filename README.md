@@ -4,6 +4,8 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ## ToDo - haven't had a closer look at what exactly these are...
 
+* https://veilid.com
+* https://spritely.institute and https://spritelyproject.org
 * https://developer.tbd.website/projects/web5/
 * https://solidproject.org
 * https://safenetwork.tech (with https://safenetwork.org)
