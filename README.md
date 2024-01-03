@@ -2,7 +2,9 @@
 
 Directory of [awesome](https://github.com/sindresorhus/awesome) projects related to the future buzzword compliant decentralized internet Web3 Blockchain P2P secure world cloud!
 
-## ToDo - haven't had a closer look at what exactly these are...
+## ToDo
+
+Haven't had a closer look at what exactly these are, and how they fit into the classification below...
 
 * https://veilid.com
 * https://spritely.institute and https://spritelyproject.org
