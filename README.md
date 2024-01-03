@@ -34,7 +34,7 @@ Directory of [awesome](https://github.com/sindresorhus/awesome) projects related
 
 ### Social Networks / Media
 
-* https://nostr.com
+* https://nostr.com (and https://www.nostr.net)
 * https://lens.xyz Social Network infra
 * https://www.manyver.se #decentralized
 * https://matrix.org #federated
