@@ -92,6 +92,7 @@ Haven't had a closer look at what exactly these are, and how they fit into the c
 ### Blockchains
 
 * https://ethereum.org
+* https://hedera.com
 * https://polygon.technology
 * https://solana.com
 * https://near.org
