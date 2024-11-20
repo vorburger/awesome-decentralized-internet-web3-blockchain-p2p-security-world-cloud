@@ -239,6 +239,10 @@ Haven't had a closer look at what exactly these are, and how they fit into the c
 
 ## Related awesome lists
 
+* https://gitlab.com/bluesky-community1/decentralized-ecosystem
+* https://github.com/redecentralize/alternative-internet
+* https://github.com/gdamdam/awesome-decentralized-web
+* https://github.com/kgryte/awesome-peer-to-peer
 * https://project-awesome.org/ipfs/awesome-ipfs
 * https://github.com/sindresorhus/awesome#decentralized-systems
 * https://github.com/difler1/awesome-decentralized
