@@ -239,6 +239,7 @@ Haven't had a closer look at what exactly these are, and how they fit into the c
 
 ## Related awesome lists
 
+* https://github.com/awesome-selfhosted/awesome-selfhosted
 * https://gitlab.com/bluesky-community1/decentralized-ecosystem
 * https://github.com/redecentralize/alternative-internet
 * https://github.com/gdamdam/awesome-decentralized-web
