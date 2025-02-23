@@ -66,6 +66,7 @@ Haven't had a closer look at what exactly these are, and how they fit into the c
 
 ### File Storage
 
+* https://internxt.com
 * https://files.chainsafe.io
 * https://slate.host
 * https://drive.fission.codes
