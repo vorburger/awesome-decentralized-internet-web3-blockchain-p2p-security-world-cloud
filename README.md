@@ -35,6 +35,7 @@ Haven't had a closer look at what exactly these are, and how they fit into the c
 * https://status.im
 * https://berty.tech #decentralized
 * https://keet.io
+* https://tox.chat ?
 * https://scuttlebutt.nz
 
 ### Social Networks / Media
