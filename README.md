@@ -30,6 +30,7 @@ Haven't had a closer look at what exactly these are, and how they fit into the c
 
 ### Instant Messaging
 
+* https://delta.chat
 * https://jami.net
 * https://tox.chat
 * https://status.im
