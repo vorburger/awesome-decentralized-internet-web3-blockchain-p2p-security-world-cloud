@@ -199,6 +199,7 @@ Haven't had a closer look at what exactly these are, and how they fit into the c
 * https://app.tor.us
 
 ### Identity 🆔
+* [Hashgraph Online (HOL)](https://hol.org): Universal agentic registry for AI agents. Universal Agent IDs (UAIDs) for cross-chain identity. Bridges to ERC-8004, A2A, Virtuals, x402.
 
 * https://keyoxide.org (with https://js.doip.rocks)
 * https://ariadne.id
